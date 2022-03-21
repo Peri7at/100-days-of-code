@@ -9,3 +9,14 @@
 **Link(s) to work**
 1. [Managing Packages with NPM](https://replit.com/@PerizatIbraeva/boilerplate-npm#.replit)
 2. [Basic Node and Express](https://replit.com/@PerizatIbraeva/boilerplate-express-1#.replit)
+
+
+### Day 1: March 21, 2022 
+
+**Today's Progress**: I've gone through first three exercises on Back End Development and APIs on FreeCodeCamp. Specifically 'MongoDB and Mongoose' topic. Though I had used MongoDB and Mongoose throughout bootcamp, created MongoDB Atlas Cluster for the first time and used it in the exercises.
+
+**Thoughts** The exercises are basics, completed them just to go in the order of the freeCodeCamp's curriculum and for the sake of completion of all the exercises before starting to do the projects.
+
+**Link(s) to work**
+1. [MongoDB and Mongoose](https://replit.com/@PerizatIbraeva/boilerplate-mongomongoose#.replit)
+
