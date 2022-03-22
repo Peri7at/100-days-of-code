@@ -13,10 +13,18 @@
 
 ### Day 1: March 21, 2022 
 
-**Today's Progress**: I've gone through first three exercises on Back End Development and APIs on FreeCodeCamp. Specifically 'MongoDB and Mongoose' topic. Though I had used MongoDB and Mongoose throughout bootcamp, created MongoDB Atlas Cluster for the first time and used it in the exercises.
+**Today's Progress**: I've gone through first three exercises on 'MongoDB and Mongoose' topic. Though I had used MongoDB and Mongoose throughout bootcamp, created MongoDB Atlas Cluster for the first time and used it in the exercises.
 
 **Thoughts** The exercises are basics, completed them just to go in the order of the freeCodeCamp's curriculum and for the sake of completion of all the exercises before starting to do the projects.
 
 **Link(s) to work**
 1. [MongoDB and Mongoose](https://replit.com/@PerizatIbraeva/boilerplate-mongomongoose#.replit)
 
+### Day 2: March 22, 2022 
+
+**Today's Progress**: I've completed 'MongoDB and Mongoose' topic and exercises.
+
+**Thoughts** The exercises are basics, completed them just to go in the order of the freeCodeCamp's curriculum and for the sake of completion of all the exercises before starting to do the projects. Excited to start building some projects from tomorrow.
+
+**Link(s) to work**
+1. [MongoDB and Mongoose](https://replit.com/@PerizatIbraeva/boilerplate-mongomongoose#.replit)
