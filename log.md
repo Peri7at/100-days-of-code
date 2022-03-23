@@ -20,6 +20,7 @@
 **Link(s) to work**
 1. [MongoDB and Mongoose](https://replit.com/@PerizatIbraeva/boilerplate-mongomongoose#.replit)
 
+
 ### Day 2: March 22, 2022 
 
 **Today's Progress**: I've completed 'MongoDB and Mongoose' topic and exercises.
@@ -28,3 +29,13 @@
 
 **Link(s) to work**
 1. [MongoDB and Mongoose](https://replit.com/@PerizatIbraeva/boilerplate-mongomongoose#.replit)
+
+
+### Day 3: March 23, 2022 
+
+**Today's Progress**: I've gone through first 17 exercises of Object Oriented Programming on freeCodeCamp.
+
+**Thoughts** The exercises are basics, completed them just to go in the order of the freeCodeCamp's curriculum and for the sake of completion of all the exercises before starting to do the projects. I did not start building any project yet. Planning to complete all previous exercises and projects before Back End Development on freeCodeCamp. Sometimes is nice to refresh the stuff you already know.
+
+**Link(s) to work**
+1. [Object Oriented Programming](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/object-oriented-programming/use-inheritance-so-you-dont-repeat-yourself) 
